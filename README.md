@@ -12,9 +12,9 @@ This library provides tools to generate and examine spatial graphs, i.e. graphs 
 
 ## Literature
 
-The functionality is, in parts, based on research conducted by the author. In particular, the definition of the Scale-Invariant Spatial Graph Model is contained in the following paper:
+The functionality is, in parts, based on research conducted by the author. In particular, the definition of the *Scale-Invariant Spatial Graph Model* is contained in the following paper:
 
-Franz-Benjamin Mocnik, Andrew U. Frank: Modelling Spatial Structures<br>
+Franz-Benjamin Mocnik, Andrew U. Frank: **Modelling Spatial Structures**<br>
 Proceedings of the 12th Conference on Spatial Information Theory (COSIT), 2015
 
 You find more information on http://www.mocnik-science.net
